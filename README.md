@@ -86,24 +86,4 @@ Aviation Electronics Technician
 
 ## Projects
 
-Endpoint Detection and Response Lab Using LimaCharlie
-
-- Created up a small virtual environment
-
-Built a virtual environment consisting of a Ubuntu server as a C2 attack box and a Windows 11 as the host machine. Configured the attack box with a static address and enabled secure remote access by installing OpenSSH. Installed Sliver on the attack system to provide advanced capabilities for covertly managing and controlling remote systems. Disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor. Installed Sysmon on the host as it provides very granular telemetry from Windows endpoints. LimaCharlie is a very powerful “SecOps Cloud Platform”. It not only comes with a cross-platform EDR agent, but also handles all of the log shipping/ingestion and has a threat detection engine. Signed up for LimaCharlie's cloud service and installed one of its sensors on the host machine. Configured LimaCharlie to ship Sysmon event logs along with its own EDR telemetry.
-
-- Executed a C2 payload and interacted with the host machine
-
-Generated a C2 payload and spun up a temporary web server from the attack box. Downloaded the C2 payload from the attack box to the host machine. Started the Sliver HTTP listener on the attack box and executed the C2 payload from the host machine. Connected with the C2 session and is now interacting with the host machine. Observed the telemetry in LimaCharlie. Saw that the process for the C2 payload did not have a valid signature and was active on the network on the Processes tab. Was able to get the attack box IP address from the Network tab. Scanned the C2 payload using VirusTotal from the File System tab but the item was not found. The Timeline tab showed when the implant was created on the system, when it was launched shortly after, and the network connections it created immediately after.
-
-- Emulated an adversary for crafting detections
-
-Ran "procdump -n lsass.exe -s lsass.dmp" to dump the lsass.exe process from memory, stealing credentials. LimaCharlie detected this telemetry as "SENSITIVE_PROCESS_ACCESS" events in the Timeline tab. Used one of the events to build a detection and response rule to detect similar events going forward, respond to them by reporting them as "LSASS access" in the Detections tab, and tested the event to ensure that the detection would work before saving the rule. Reran the credential dumping command and LimaCharlie detected the attack in the Detections tab and showed it in the Timeline tab.
-
-- Blocked an attack
-
-Ran "shell" in the Sliver C2 shell then ran "vssadmin delete shadows /all" to erase backup copies or snapshots of computer files or volumes. This is often used for ransomware attacks. LimaCharlie's Detection tab was able to pick up this event through its default Sigma rules. Crafted a rule using the event to detect and report the event, and respond by killing the parent process responsible with "deny_tree" for the "vssadmin delete shadows /all" command. Ran "vssadmin delete shadows /all" from the attack box but the prompt "Shell Exited" came up effectively terminating the parent process.
-
-- Triggered YARA scans with a detection rule
-
-Created a YARA rule in LimaCharlie that detects Sliver Windows and Linux implants based on paths and function names within the binary. Created another YARA rule that detects Sliver Windows and Linux implants based on obvious strings within. Created a "D&R" rules in the Automation tab detecting and reporting YARA detections not involving a PROCESS object. Created another "D&R" rules in the Automation tab detecting and reporting YARA detections specifically involving a PROCESS object. Ran the following sensor command "yara_scan hive://yara/sliver -f C:\Users\User\Downloads\PROGRESSING_FRIENDLY.exe in the Console tab against the host machine. The output indicated a positive hit on one of the signatures contained within the Sliver YARA rule.The event was also detected on the Detections tab. Created a "D&R" rule in the automation tab to detect and report any new .exe files that appear in any user Downloads directory in the host machine. Created a "D&R" rule in the automation tab to detect and report any new .exe files that appear in any user Downloads directory in the host machine.
+Endpoint Detection and Response Using LimaCharlie
