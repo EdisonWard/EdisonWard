@@ -50,7 +50,7 @@ Aviation Electronics Technician
 - Digital Forensics - Autopsy
 - Endpoint Management - Intune, SCCM, and Workspace ONE
 - EDR - LimaCharlie
-- Forensics - Autopsy and Volatility
+- Digital Forensics - Autopsy and Volatility
 - IAM - AD & Azure AD
 - Incident Response - Wireshark and DeepBlueCLI
 - Information Gathering - Nmap/Zenmap
