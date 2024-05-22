@@ -87,7 +87,7 @@ Associate of Applied Science in Network Systems Administration
 
 <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Virtual SOC Environment Detection and Response</a>
 
-<br> Built a virtual SOC environment, set up a C2 framework for emulating threat actor behavior using a Ubuntu server, threw attacks at a Windows 11 host machine, and caught the detections and responded by reporting or blocking the intrusions using the LimaCharlie EDR.  
+<br> Built a virtual SOC environment, set up a C2 framework for emulating threat actor behavior using a Ubuntu server, threw attacks at a Windows 11 host machine, and caught the detections and responded by reporting or blocking the intrusions using LimaCharlie EDR.  
 ## Hands-on Labs
 
 Blue Team Labs Online
