@@ -85,13 +85,14 @@ Associate of Applied Science in Network Systems Administration
 
 ## Projects
 
-<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Endpoint Detection and Response Using LimaCharlie</a>
-<br>Performed all lab sections part 1 to 6 of "So you want to be a SOC Analyst? Intro" by Eric Capuanoz
+<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Virtual SOC Environment Detection and Response</a>
 
+<br> Built a virtual SOC environment, set up a C2 framework for emulating threat actor behavior using a Ubuntu server, threw attacks at a Windows 11 host machine, and caught the detections and responded by reporting or blocking the intrusions using the LimaCharlie EDR.  
 ## Hands-on Labs
 
 Blue Team Labs Online
 <br><a href="https://blueteamlabs.online/achievement/share/75272/203">Anakus - Reverse Engineering</a>
+
 - Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
 - Employed SigCheck to verify if a file has been signed with a code-signing certificate proving its validity.
 - Enabled Windows Defender and verified malware by scanning a suspected file.
