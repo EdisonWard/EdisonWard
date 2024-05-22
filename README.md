@@ -4,14 +4,6 @@
 ## About Me
 Aspiring Cybersecurity Professional with over 6 years of technical experience troubleshooting computer and network-related issues. Honorably discharged Navy veteran with a decade of background in teamwork, accountability, and work ethic. Results-driven with notable success in analyzing, diagnosing, and resolving complex and urgent problems. Passionate and personable with an eagerness to learn from others. Highly motivated and detail-oriented team player ready to help achieve company goals.
 
-## Education
-
-Bachelor of Science in Cybersecurity and Information Assurance
-<br>City University of Seattle
-
-Associate of Applied Science in Network Systems Administration
-<br>ITT Technical Institute
-
 ## Experience
 
 Executive IT Support Specialist
@@ -52,6 +44,24 @@ Aviation Electronics Technician
 - Supervised work center resulting in the completion of daily priorities coming from management.
 - Former TS/SCI and Secret clearance.
 
+## Education
+
+Bachelor of Science in Cybersecurity and Information Assurance
+<br>City University of Seattle
+
+Associate of Applied Science in Network Systems Administration
+<br>ITT Technical Institute
+
+## Certifications
+
+- <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
+- <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
+- Consortium for Service Innovation - KCS v6 Fundamentals
+- <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
+- Qualys - Vulnerability Management, Detection and Response
+- <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
+- <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
 ## Skills and Tools
 
@@ -73,17 +83,17 @@ Aviation Electronics Technician
 - Threat Intelligence - MISP
 - Vulnerability Management - Qualys
 
-## Certifications
-
-- <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
-- <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
-- Consortium for Service Innovation - KCS v6 Fundamentals
-- <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
-- Qualys - Vulnerability Management, Detection and Response
-- <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
-- <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
-
 ## Projects
 
-Endpoint Detection and Response Using LimaCharlie
+<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Endpoint Detection and Response Using LimaCharlie</a>
+<br>Performed all lab sections part 1 to 6 of "So you want to be a SOC Analyst? Intro" by Eric Capuanoz
+
+## Hands-on Labs
+
+Blue Team Labs Online
+<br><a href="https://blueteamlabs.online/achievement/share/75272/203">Anakus - Reverse Engineering</a>
+- Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
+- Employed SigCheck to verify if a file has been signed with a code-signing certificate proving its validity.
+- Enabled Windows Defender and verified malware by scanning a suspected file.
+- Utilized Timeline Explorer to organize and search through threat logs.
+- Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
