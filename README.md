@@ -85,9 +85,27 @@ Associate of Applied Science in Network Systems Administration
 
 ## Projects
 
-<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Virtual SOC Environment Detection and Response</a>
+<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Created a virtual SOC environment, set up a C2 framework for emulating threat actor behavior, threw attacks, caught the detections, and responded by reporting or blocking the intrusions using LimaCharlie EDR.</a>
 
-<br> Built a virtual SOC environment, set up a C2 framework for emulating threat actor behavior using a Ubuntu server, threw attacks at a Windows 11 host machine, and caught the detections and responded by reporting or blocking the intrusions using LimaCharlie EDR.  
+- Set up a Ubuntu server to serve as an attack box.
+- Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
+- Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
+- SSH'ed into the attack box and installed Sliver, a C2 framework, to emulate threat actor behavior.
+- Generated a C2 payload, spun up a temporary web server, and downloaded the C2 payload from the attack box to the host machine via the web server.
+- Started the HTTP listener of Sliver on the attack box, executed the C2 payload from the host machine, interacted with the new C2 session on the attack box, and observed the telemetry in LimaCharlie.
+- Ran "procdump -n lsass.exe -s lsass.dmp" from the attack box. This action is used to steal credentials.
+- Detected the attack in LimaCharlie and built a rule to report the intrusion.
+- Ran "procdump -n lsass.exe -s lsass.dmp" again from the attack box, and LimaCharlie detected and reported it.
+- Ran "shell" from the attack box and ran "vssadmin delete shadows /all" to delete Volume Shadow Copies. This action is typically used for ransomware as it deletes backup copies or snapshots of computer files and volumes. LimaCharlie's default Sigma rules detected this attack. Created a detection and response rule to report such events and respond by killing the parent process responsible with the deny_tree for the "vssadmin delete shadows /all" command.
+- Ran "vssadmin delete shadows /all" again from the attack box and the prompt "Shell Existed" popped up. This shows that the rule created work as LimaCharlie successfully killed the parent process of shell.
+- <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part-54f?triedRedirect=true">Viewed the video for tuning false positives in LimaCharlie.
+- Added YARA rules in LimaCharlie to detect Sliver implants in Windows and Linux. Also, added generic detection and response rules to generate alerts whenever a YARA detection occurs.
+- Since the C2 payload is still in the host machine, a YARA scan was performed on the host machine to ensure that the YARA rules worked using LimaCharlie. It worked as the C2 payload was detected.
+- Created a rule in LimaCharlie to detect any new .exe files appearing in any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the file path.
+- Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
+- Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
+- Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
+
 ## Hands-on Labs
 
 Blue Team Labs Online
