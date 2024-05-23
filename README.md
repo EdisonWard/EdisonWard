@@ -59,7 +59,7 @@ Aviation Electronics Technician
 - Networking - Cisco, ADVA, Arris, and Juniper
 - Password Attacks - John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, and Wannabrowser
-- Project Management Software - Hive and Jira
+- Project Management Software - TheHive5 and Jira
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
 - Scripting - PowerShell
 - SIEM - Splunk
