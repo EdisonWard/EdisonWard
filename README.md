@@ -3,9 +3,7 @@
 
 ## About Me
 
-At the Bill & Melinda Gates Foundation, my focus on cybersecurity has been paramount, leading initiatives that bring devices into compliance and fortify over 1,500 domain accounts against unauthorized access. Our team's work in phishing attack analysis and incident response has been vital in protecting the organization's integrity and finances.
-
-My technical and network-related support background, honed at Intellectual Ventures and Wave Broadband, is marked by efficiently resolving countless issues, which underscores my commitment to operational excellence and customer service. Dedicated to empowering organizations, I champion the secure and efficient operation of technology in complex digital landscapes.
+Aspiring Cybersecurity Professional boasting a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Demonstrated proficiency in swiftly analyzing and resolving intricate and time-sensitive issues, showcasing a results-oriented approach. Exhibits a fervent commitment to continual learning and interpersonal adeptness. Highly driven and meticulous team member poised to contribute to organizational objectives.
 
 ## Experience
 
