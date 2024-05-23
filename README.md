@@ -2,7 +2,10 @@
 <a href="https://www.linkedin.com/in/edisonward/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-Aspiring Cybersecurity Professional with over 6 years of technical experience troubleshooting computer and network-related issues. Honorably discharged Navy veteran with a decade of background in teamwork, accountability, and work ethic. Results-driven with notable success in analyzing, diagnosing, and resolving complex and urgent problems. Passionate and personable with an eagerness to learn from others. Highly motivated and detail-oriented team player ready to help achieve company goals.
+
+My role at the Bill & Melinda Gates Foundation centers on cybersecurity excellence, where endpoint management and attack mitigation are daily mandates. With a professional grounding in IT support, our collective efforts have fortified the security of over 1,500 domain accounts and have been instrumental in preventing potential financial and reputational harm to our organization.
+
+I excel in analyzing and neutralizing sophisticated phishing threats, and my commitment to robust incident response practices is unwavering. The technical support expertise I refined at Intellectual Ventures, culminating in the swift closure of more than 2,250 tickets, reflects my dedication to operational efficiency and customer satisfaction. My mission is to empower organizations to operate securely in an increasingly complex digital environment.
 
 ## Experience
 
@@ -53,11 +56,12 @@ Aviation Electronics Technician
 - Digital Forensics - Autopsy and Volatility
 - IAM - AD & Azure AD
 - Incident Response - Wireshark and DeepBlueCLI
-- Information Gathering - Nmap/Zenmap
+- Network Scanner - Nmap/Zenmap
 - Knowledge Management - SharePoint, Zendesk and Confluence
 - Networking - Cisco, ADVA, Arris, and Juniper
 - Password Attacks - John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, and Wannabrowser
+- Project Management Software - Hive and Jira
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
 - Scripting - PowerShell
 - SIEM - Splunk
