@@ -3,7 +3,7 @@
 
 ## About Me
 
-My role at the Bill & Melinda Gates Foundation centers on cybersecurity excellence, where endpoint management and attack mitigation are daily mandates. With a professional grounding in IT support, our collective efforts have fortified the security of over 1,500 domain accounts and have been instrumental in preventing potential financial and reputational harm to our organization.
+My role at the Bill & Melinda Gates Foundation centered on cybersecurity excellence, where endpoint management and attack mitigation were daily mandates. With a professional grounding in IT support, our collective efforts fortified the security of over 1,500 domain accounts and were instrumental in preventing potential financial and reputational harm to our organization.
 
 I excel in analyzing and neutralizing sophisticated phishing threats, and my commitment to robust incident response practices is unwavering. The technical support expertise I refined at Intellectual Ventures, culminating in the swift closure of more than 2,250 tickets, reflects my dedication to operational efficiency and customer satisfaction. My mission is to empower organizations to operate securely in an increasingly complex digital environment.
 
