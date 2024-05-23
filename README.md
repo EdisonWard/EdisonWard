@@ -3,9 +3,9 @@
 
 ## About Me
 
-My role at the Bill & Melinda Gates Foundation centered on cybersecurity excellence, where endpoint management and attack mitigation were daily mandates. With a professional grounding in IT support, our collective efforts fortified the security of over 1,500 domain accounts and were instrumental in preventing potential financial and reputational harm to our organization.
+At the Bill & Melinda Gates Foundation, my focus on cybersecurity has been paramount, leading initiatives that bring devices into compliance and fortify over 1,500 domain accounts against unauthorized access. Our team's work in phishing attack analysis and incident response has been vital in protecting the organization's integrity and finances.
 
-I excel in analyzing and neutralizing sophisticated phishing threats, and my commitment to robust incident response practices is unwavering. The technical support expertise I refined at Intellectual Ventures, culminating in the swift closure of more than 2,250 tickets, reflects my dedication to operational efficiency and customer satisfaction. My mission is to empower organizations to operate securely in an increasingly complex digital environment.
+My technical and network-related support background, honed at Intellectual Ventures and Wave Broadband, is marked by efficiently resolving countless issues, which underscores my commitment to operational excellence and customer service. Dedicated to empowering organizations, I champion the secure and efficient operation of technology in complex digital landscapes.
 
 ## Experience
 
