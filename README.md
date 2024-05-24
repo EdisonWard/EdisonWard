@@ -61,6 +61,7 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
 - Scripting - Python and PowerShell
 - Security Information and Event Management - Splunk
+- Ticketing Systems - ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Vulnerability Management - Qualys
 
