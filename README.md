@@ -35,7 +35,7 @@ Network Operations Center Analyst
 -	Applied expertise in troubleshooting network issues across various router and switch models, including Cisco, Juniper, Arris, and ADVA, thereby minimizing downtime and network congestion.
 -	Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
 
-Aviation Electronics Technician (Former TS/SCI and Secret clearance)
+Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 <br> US Navy, Jul 2004 - Sep 2013
 
 - Proficiently maintained and serviced critical avionic systems onboard mission aircraft, ensuring optimal performance and reliability in high-stakes operational environments.
