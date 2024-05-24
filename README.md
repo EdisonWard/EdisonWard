@@ -10,40 +10,37 @@ Aspiring Cybersecurity Professional boasting a track record of over six years in
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
 
-- Brought countless devices into compliance using endpoint management solutions mitigating the exploitation of vulnerabilities. 
--	Analyzed phishing attacks through phishing analysis tools preventing credential harvesting and installation of malware. 
--	Managed domain accounts of over 1,500 users through identity and access management solutions ensuring the right users have the appropriate access to technology resources. 
--	Performed incident response with guidance from the incident response team avoiding financial and reputational damage to the company. 
+-	Delivered round-the-clock, high-touch technical support tailored for executives, directors, and VIPs both on-site and remotely.
+-	Ensured adherence to security policies by leveraging endpoint management solutions, effectively bringing numerous devices into compliance and safeguarding network integrity.
+-	Leveraged phishing analysis tools to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
 
 Technical Support Specialist
 <br> Intellectual Ventures, Feb 2019 - Mar 2021
 
--	Performed monthly server patches through SCCM and OS updates enhancing security and performance. 
--	Tested, deployed, and maintained OneDrive in the environment safeguarding data to the cloud preventing loss of work in case of computer failure.
--	Executed fast quality work related to computer and network-related issues resulting in the resolution of over 2,250 tickets swiftly getting satisfied customers back to their activities. 
+-	Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
+-	Managed the domain accounts for a user base exceeding 1,500, utilizing identity and access management solutions to meticulously regulate access to technological resources.
+-	Enhanced system security and performance by meticulously executing monthly server patches through SCCM and implementing OS updates.
 
 Amazon Live Stream Event Associate
 <br> Amazon, Jan 2019 - Feb 2019
 
--	Executed multiple live streaming events concurrently; being the sole owner of many tier 1 live events ensuring the highest customer quality experience.
--	Enhanced operations driving improvements and automation.
--	Worked with senior engineers and other teams for handing off or taking over active support issues prioritizing root-cause fixes and creating a team-specific knowledge base and skill set.
+-	Successfully managed multiple concurrent live streaming events, assuming full ownership of numerous tier 1 live events to ensure unparalleled customer experience and satisfaction.
+-	Bolstered operational enhancements by driving process improvements and implementing automation initiatives to streamline workflows and optimize efficiency.
+-	Collaborated closely with senior engineers and cross-functional teams to effectively transition active support issues, prioritizing root-cause analysis and fostering the creation of a comprehensive team-specific knowledge base and skill set.
 
 Network Operations Center Analyst
 <br> Wave Broadband, Oct 2015 - Jun 2017
 
--	Monitored and triaged the Wave network and its subsidiaries throughout multiple states using OpenNMS, SolarWinds, and other general network health statistics ensuring the company stays within its SLA.
--	Troubleshot network issues using CLI and GUI on different switch and router types including but not limited to Cisco, ADVA, Arris, and Juniper limiting downtime and congestion.
--	Provided escalation support for Technical Support Representatives as well as install and trouble calls for Field Technicians.
+-	Maintained vigilant oversight of the Wave network and its subsidiaries across multiple states, utilizing robust network monitoring solutions to uphold service level agreements and operational efficiency.
+-	Applied expertise in troubleshooting network issues across various router and switch models, including Cisco, Juniper, Arris, and ADVA, thereby minimizing downtime and network congestion.
+-	Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
 
-Aviation Electronics Technician
+Aviation Electronics Technician (Former TS/SCI and Secret clearance)
 <br> US Navy, Jul 2004 - Sep 2013
 
-- Maintained and repaired highly valued avionic systems on mission aircrafts.
-- Fixed high-priced specialty electronics saving the Navy over $675,000 in funding.
-- Trained and qualified countless personnel in military-related qualifications.
-- Supervised work center resulting in the completion of daily priorities coming from management.
-- Former TS/SCI and Secret clearance.
+- Proficiently maintained and serviced critical avionic systems onboard mission aircraft, ensuring optimal performance and reliability in high-stakes operational environments.
+- Provided comprehensive training and qualification to numerous personnel in military-related disciplines, contributing to the readiness and proficiency of the workforce.
+- Directed and supervised daily operations within the work center, ensuring the timely completion of priorities set forth by management and maintaining operational continuity.
 
 ## Skills and Tools
 
