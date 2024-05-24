@@ -68,9 +68,11 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 
 Bachelor of Science in Cybersecurity and Information Assurance
 <br>City University of Seattle
+<br>Apr 2014 - Jun 2019
 
 Associate of Applied Science in Network Systems Administration
 <br>ITT Technical Institute
+<br>Mar 2015 - Sep 2016
 
 ## Certifications
 
