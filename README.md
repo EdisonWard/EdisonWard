@@ -77,6 +77,7 @@ Associate of Applied Science in Network Systems Administration
 - <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
 - Consortium for Service Innovation - KCS v6 Fundamentals
+- Cybrary - Firewall Basics
 - <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
 - Qualys - Vulnerability Management, Detection and Response
