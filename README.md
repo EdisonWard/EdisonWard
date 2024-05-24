@@ -49,11 +49,11 @@ Aviation Electronics Technician
 
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy
-- Endpoint Management - Intune, SCCM, and Workspace ONE
-- EDR - LimaCharlie
+- Endpoint Management - Intune, System Center Configuration Manager, and Workspace ONE
+- Endpoint Detection and Response - LimaCharlie
 - Digital Forensics - Autopsy and Volatility
 - Firewalls - Windows Defender Firewall and iptables
-- IAM - AD & Azure AD
+- Identity and Access Management - Active Directory & Azure Active Directory
 - Incident Response - Wireshark and DeepBlueCLI
 - Network Scanner - Nmap/Zenmap
 - Knowledge Management - SharePoint, Zendesk and Confluence
@@ -63,7 +63,7 @@ Aviation Electronics Technician
 - Project Management Software - TheHive5 and Jira
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
 - Scripting - PowerShell
-- SIEM - Splunk
+- Security Information and Event Management - Splunk
 - Threat Intelligence - MISP
 - Vulnerability Management - Qualys
 
