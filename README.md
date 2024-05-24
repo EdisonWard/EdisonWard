@@ -46,23 +46,31 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy
+- Email Platforms - Exchange Admin Center, Exchange Online Powershell
 - Endpoint Management - Intune, System Center Configuration Manager, and Workspace ONE
 - Endpoint Detection and Response - LimaCharlie
+- Executive Support
 - Digital Forensics - Autopsy and Volatility
 - Firewalls - Windows Defender Firewall and iptables
 - Identity and Access Management - Active Directory & Azure Active Directory
 - Incident Response - Wireshark and DeepBlueCLI
 - Network Scanner - Nmap/Zenmap
+- Operating Systems: Windows, MacOS, Linux, iOS, Android
 - Knowledge Management - SharePoint, Zendesk and Confluence
 - Networking - Cisco, ADVA, Arris, and Juniper
 - Password Attacks - John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, and Wannabrowser
+- Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
+- Productivity Tools - Office 365
 - Project Management Software - TheHive5 and Jira
+- Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
 - Scripting - Python and PowerShell
 - Security Information and Event Management - Splunk
 - Ticketing Systems - ServiceNow, Zendesk
 - Threat Intelligence - MISP
+- Video Conferencing Platforms - Microsoft Teams, Zoom
+- Virtual Private Network - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
 
 ## Education
