@@ -52,6 +52,7 @@ Aviation Electronics Technician
 - Endpoint Management - Intune, SCCM, and Workspace ONE
 - EDR - LimaCharlie
 - Digital Forensics - Autopsy and Volatility
+- Firewalls - Windows Defender Firewall and iptables
 - IAM - AD & Azure AD
 - Incident Response - Wireshark and DeepBlueCLI
 - Network Scanner - Nmap/Zenmap
