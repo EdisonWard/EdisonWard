@@ -62,7 +62,7 @@ Aviation Electronics Technician
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, and Wannabrowser
 - Project Management Software - TheHive5 and Jira
 - Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
-- Scripting - PowerShell
+- Scripting - Python and PowerShell
 - Security Information and Event Management - Splunk
 - Threat Intelligence - MISP
 - Vulnerability Management - Qualys
