@@ -10,16 +10,16 @@ Aspiring Cybersecurity Professional boasting a track record of over six years in
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
 
--	Delivered round-the-clock, high-touch technical support tailored for executives, directors, and VIPs both on-site and remotely.
--	Ensured adherence to security policies by leveraging endpoint management solutions, effectively bringing numerous devices into compliance and safeguarding network integrity.
--	Leveraged phishing analysis tools to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
+- Delivered round-the-clock, high-touch technical support tailored for executives, directors, and VIPs both on-site and remotely.
+- Ensured adherence to security policies by leveraging endpoint management solutions, Microsoft Intune and Workspace ONE, effectively bringing numerous devices into compliance and safeguarding network integrity.
+- Managed the domain accounts for a user base exceeding 1,500, utilizing identity and access management solutions, Active Directory and Azure AD, to meticulously regulate access to technological resources. 
 
 Technical Support Specialist
 <br> Intellectual Ventures, Feb 2019 - Mar 2021
 
--	Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
--	Managed the domain accounts for a user base exceeding 1,500, utilizing identity and access management solutions to meticulously regulate access to technological resources.
--	Enhanced system security and performance by meticulously executing monthly server patches through SCCM and implementing OS updates.
+- Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
+- Leveraged phishing analysis tools like URL2PNG, VirusTotal, Whois, and Wannabrowser, to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
+- Enhanced system security and performance by meticulously executing monthly server patches through SCCM and implementing OS updates.
 
 Amazon Live Stream Event Associate
 <br> Amazon, Jan 2019 - Feb 2019
@@ -31,9 +31,9 @@ Amazon Live Stream Event Associate
 Network Operations Center Analyst
 <br> Wave Broadband, Oct 2015 - Jun 2017
 
--	Maintained vigilant oversight of the Wave network and its subsidiaries across multiple states, utilizing robust network monitoring solutions to uphold service level agreements and operational efficiency.
--	Applied expertise in troubleshooting network issues across various router and switch models, including Cisco, Juniper, Arris, and ADVA, thereby minimizing downtime and network congestion.
--	Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
+- Maintained vigilant oversight of the Wave network and its subsidiaries across multiple states, utilizing robust network monitoring solutions such as OpenNMS and SolarWinds to uphold service level agreements and operational efficiency.
+- Applied expertise in troubleshooting network issues through CLI and GUI across various router and switch models, including Cisco, Juniper, Arris, and ADVA, thereby minimizing downtime and network congestion.
+- Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
 
 Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 <br> US Navy, Jul 2004 - Sep 2013
@@ -45,28 +45,28 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 ## Skills and Tools
 
 - Antivirus - Microsoft Defender Antivirus
-- Digital Forensics - Autopsy
+- Digital Forensics - Autopsy, Volatility
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
-- Endpoint Management - Microsoft Intune, System Center Configuration Manager, and Workspace ONE
+- Endpoint Management - Microsoft Intune, System Center Configuration Manager, Workspace ONE
 - Endpoint Detection and Response - LimaCharlie
 - Executive Support
-- Digital Forensics - Autopsy and Volatility
-- Firewalls - Windows Defender Firewall and iptables
-- Identity and Access Management - Active Directory & Azure Active Directory
-- Incident Response - Wireshark and DeepBlueCLI
-- Network Monitoring Systems - OpenNMS and SolarWinds
+- Firewalls - Windows Defender Firewall. iptables
+- Identity and Access Management - Active Directory, Azure Active Directory
+- Incident Response - Wireshark, DeepBlueCLI
+- Log Analysis
+- Network Monitoring Systems - OpenNMS, SolarWinds
 - Network Scanner - Nmap/Zenmap
 - Operating Systems: Windows, MacOS, Linux, iOS, Android
-- Knowledge Management - SharePoint, Zendesk and Confluence
-- Networking - Cisco, ADVA, Arris, and Juniper
+- Knowledge Management - SharePoint, Zendesk, Confluence
+- Networking - Cisco, ADVA, Arris, Juniper
 - Password Attacks - John the Ripper
-- Phishing Analysis - URL2PNG, VirusTotal, Whois, and Wannabrowser
+- Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
 - Productivity Tools - Office 365
-- Project Management Software - TheHive5 and Jira
+- Project Management Software - TheHive5, Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
-- Reverse Engineering - Detect it Easy, SigCheck, and Timeline Explorer
-- Scripting - Python and PowerShell
+- Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
+- Scripting - Python, PowerShell
 - Security Information and Event Management - Splunk
 - Ticketing Systems - ServiceNow, Zendesk
 - Threat Intelligence - MISP
