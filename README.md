@@ -47,13 +47,14 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
-- Endpoint Management - Intune, System Center Configuration Manager, and Workspace ONE
+- Endpoint Management - Microsoft Intune, System Center Configuration Manager, and Workspace ONE
 - Endpoint Detection and Response - LimaCharlie
 - Executive Support
 - Digital Forensics - Autopsy and Volatility
 - Firewalls - Windows Defender Firewall and iptables
 - Identity and Access Management - Active Directory & Azure Active Directory
 - Incident Response - Wireshark and DeepBlueCLI
+- Network Monitoring Systems - OpenNMS and SolarWinds
 - Network Scanner - Nmap/Zenmap
 - Operating Systems: Windows, MacOS, Linux, iOS, Android
 - Knowledge Management - SharePoint, Zendesk and Confluence
