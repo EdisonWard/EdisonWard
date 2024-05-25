@@ -3,7 +3,7 @@
 
 ## About Me
 
-Aspiring Cybersecurity Professional boasting a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Demonstrated proficiency in swiftly analyzing and resolving intricate and time-sensitive issues, showcasing a results-oriented approach. Exhibits a fervent commitment to continual learning and interpersonal adeptness. Highly driven and meticulous team member poised to contribute to organizational objectives.
+Aspiring Cybersecurity Analyst with a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Results-orientated with a commitment to continual learning and interpersonal adeptness. Highly driven and meticulously poised to contribute to organizational objectives.
 
 ## Experience
 
