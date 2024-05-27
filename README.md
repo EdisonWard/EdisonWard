@@ -47,11 +47,12 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy, Volatility
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
-- Endpoint Management - Microsoft Intune, System Center Configuration Manager, Workspace ONE
-- Endpoint Detection and Response - LimaCharlie
+- Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
+- EDR - LimaCharlie
 - Executive Support
-- Firewalls - Windows Defender Firewall. iptables
-- Identity and Access Management - Active Directory, Azure Active Directory
+- Firewalls - Windows Defender Firewall, iptables
+- IAM - AD, Azure AD
+- IDS/IPS - Snort
 - Incident Response - Wireshark, DeepBlueCLI
 - Log Analysis
 - Network Monitoring Systems - OpenNMS, SolarWinds
@@ -67,11 +68,11 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - Python, PowerShell
-- Security Information and Event Management - Splunk
+- SIEM - Splunk
 - Ticketing Systems - ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms - Microsoft Teams, Zoom
-- Virtual Private Network - Global Protect, DirectAccess, Appgate SDP
+- VPN - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
 
 ## Education
