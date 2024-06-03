@@ -64,12 +64,12 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
 - Productivity Tools - Office 365
-- Project Management Software - TheHive5, Jira
+- Project Management Software - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - Python, PowerShell
 - SIEM - Splunk
-- Ticketing Systems - ServiceNow, Zendesk
+- Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms - Microsoft Teams, Zoom
 - VPN - Global Protect, DirectAccess, Appgate SDP
