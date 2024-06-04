@@ -96,7 +96,7 @@ Associate of Applied Science in Network Systems Administration
 - <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
 - <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
-## Projects
+## Personal Projects
 
 <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Created a virtual SOC environment, set up a C2 framework for emulating threat actor behavior, threw attacks, caught the detections, and responded by reporting or blocking the intrusions using LimaCharlie EDR.</a>
 
@@ -118,6 +118,8 @@ Associate of Applied Science in Network Systems Administration
 - Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
 - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
 - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
+
+<a>Basic Log Analysis</a>
 
 ## Hands-on Labs
 
