@@ -98,7 +98,7 @@ Associate of Applied Science in Network Systems Administration
 
 ## Personal Projects
 
-<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web&triedRedirect=true">Created a virtual SOC environment, set up a C2 framework for emulating threat actor behavior, threw attacks, caught the detections, and responded by reporting or blocking the intrusions using LimaCharlie EDR.</a>
+<a>Sliver C2 Framework Emulating Threat Actor Behavior and Detection/Response using LimaCharlie EDR</a>
 
 - Set up a Ubuntu server to serve as an attack box.
 - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
@@ -118,8 +118,6 @@ Associate of Applied Science in Network Systems Administration
 - Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
 - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
 - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
-
-<a>Basic Log Analysis</a>
 
 ## Hands-on Labs
 
