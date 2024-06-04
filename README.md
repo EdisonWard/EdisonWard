@@ -111,7 +111,6 @@ Associate of Applied Science in Network Systems Administration
 - Ran "procdump -n lsass.exe -s lsass.dmp" again from the attack box, and LimaCharlie detected and reported it.
 - Ran "shell" from the attack box and ran "vssadmin delete shadows /all" to delete Volume Shadow Copies. This action is typically used for ransomware as it deletes backup copies or snapshots of computer files and volumes. LimaCharlie's default Sigma rules detected this attack. Created a detection and response rule to report such events and respond by killing the parent process responsible with the deny_tree for the "vssadmin delete shadows /all" command.
 - Ran "vssadmin delete shadows /all" again from the attack box and the prompt "Shell Existed" popped up. This shows that the rule created work as LimaCharlie successfully killed the parent process of shell.
-- <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part-54f?triedRedirect=true">Viewed the video for tuning false positives in LimaCharlie.
 - Added YARA rules in LimaCharlie to detect Sliver implants in Windows and Linux. Also, added generic detection and response rules to generate alerts whenever a YARA detection occurs.
 - Since the C2 payload is still in the host machine, a YARA scan was performed on the host machine to ensure that the YARA rules worked using LimaCharlie. It worked as the C2 payload was detected.
 - Created a rule in LimaCharlie to detect any new .exe files appearing in any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the file path.
