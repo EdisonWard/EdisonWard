@@ -10,16 +10,16 @@ Aspiring Cybersecurity Analyst with a track record of over six years in diagnosi
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
 
-- Delivered round-the-clock, high-touch technical support tailored for executives, directors, and VIPs both on-site and remotely.
-- Ensured adherence to security policies by leveraging endpoint management solutions, Microsoft Intune and Workspace ONE, effectively bringing numerous devices into compliance and safeguarding network integrity.
-- Managed the domain accounts for a user base exceeding 1,500, utilizing identity and access management solutions, Active Directory and Azure AD, to meticulously regulate access to technological resources. 
+-	Delivered 24/7 high-touch technical support tailored for executives, directors, and VIPs.
+-	Ensured adherence to security policies by leveraging endpoint management solutions, Microsoft Intune and Workspace ONE, effectively bringing numerous devices into compliance and safeguarding access to system resources.
+-	Managed the domain accounts of over 1,500 users, utilizing IAM solutions, Active Directory and Azure AD, assuring the right users have the appropriate access to technology resources.
 
 Technical Support Specialist
 <br> Intellectual Ventures, Feb 2019 - Mar 2021
 
-- Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
-- Leveraged phishing analysis tools like URL2PNG, VirusTotal, Whois, and Wannabrowser, to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
-- Enhanced system security and performance by meticulously executing monthly server patches through SCCM and implementing OS updates.
+-	Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
+-	Leveraged phishing analysis tools like URL2PNG, VirusTotal, and Whois, to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
+-	Enhanced system security and performance by meticulously executing monthly server patches through SCCM and OS updates.
 
 Amazon Live Stream Event Associate
 <br> Amazon, Jan 2019 - Feb 2019
@@ -31,9 +31,9 @@ Amazon Live Stream Event Associate
 Network Operations Center Analyst
 <br> Wave Broadband, Oct 2015 - Jun 2017
 
-- Maintained vigilant oversight of the Wave network and its subsidiaries across multiple states, utilizing robust network monitoring solutions such as OpenNMS and SolarWinds to uphold service level agreements and operational efficiency.
-- Applied expertise in troubleshooting network issues through CLI and GUI across various router and switch models, including Cisco, Juniper, Arris, and ADVA, thereby minimizing downtime and network congestion.
-- Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
+-	Monitored and triaged the Wave network and its subsidiaries across multiple states, utilizing network monitoring solutions such as OpenNMS and SolarWinds to uphold service level agreements and operational efficiency.
+-	Troubleshot network issues through CLI and GUI across various router and switch models, including Cisco, Juniper, Arris, and ADVA, minimizing downtime and network congestion.
+-	Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
 
 Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 <br> US Navy, Jul 2004 - Sep 2013
