@@ -1,11 +1,11 @@
-# Hello, I'm Edison Ward
+# Hello
 <a href="https://www.linkedin.com/in/edisonward/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About Me
+## $whoami
 
-Aspiring Cybersecurity Analyst with a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Results-orientated with a commitment to continual learning and interpersonal adeptness. Highly driven and meticulously poised to contribute to organizational objectives.
+I'm Edison Ward. Aspiring Cybersecurity Analyst with a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Results-orientated with a commitment to continual learning and interpersonal adeptness. Highly driven and meticulously poised to contribute to organizational objectives.
 
-## Experience
+## $history
 
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
@@ -42,7 +42,7 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Provided comprehensive training and qualification to numerous personnel in military-related disciplines, contributing to the readiness and proficiency of the workforce.
 - Directed and supervised daily operations within the work center, ensuring the timely completion of priorities set forth by management and maintaining operational continuity.
 
-## Skills and Tools
+## $ls skills and tools
 
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy, Volatility
@@ -75,7 +75,7 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - VPN - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
 
-## Education
+## $ls education
 
 Bachelor of Science in Cybersecurity and Information Assurance
 <br>City University of Seattle
@@ -85,7 +85,7 @@ Associate of Applied Science in Network Systems Administration
 <br>ITT Technical Institute
 <br>Mar 2015 - Sep 2016
 
-## Certifications
+## $ls certifications
 
 - <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
@@ -96,7 +96,7 @@ Associate of Applied Science in Network Systems Administration
 - <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
 - <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
-## Personal Projects
+## ls personal projects
 
 <a>Sliver C2 Framework Emulating Threat Actor Behavior and Detection/Response using LimaCharlie EDR</a>
 
@@ -118,9 +118,7 @@ Associate of Applied Science in Network Systems Administration
 - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
 - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
 
-## Hands-on Labs
-
-Blue Team Labs Online
+</a>Blue Team Labs Online</a>
 <br><a href="https://blueteamlabs.online/achievement/share/75272/203">Anakus - Reverse Engineering</a>
 
 - Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
