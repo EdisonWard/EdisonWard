@@ -118,7 +118,7 @@ Associate of Applied Science in Network Systems Administration
 - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
 - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
 
-</a>Blue Team Labs Online</a>
+</a>Blue Team Labs Online Investigations and Challenges</a>
 <br><a href="https://blueteamlabs.online/achievement/share/75272/203">Anakus - Reverse Engineering</a>
 
 - Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
