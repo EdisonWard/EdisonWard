@@ -42,6 +42,27 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Provided comprehensive training and qualification to numerous personnel in military-related disciplines, contributing to the readiness and proficiency of the workforce.
 - Directed and supervised daily operations within the work center, ensuring the timely completion of priorities set forth by management and maintaining operational continuity.
 
+## $ls education
+
+Bachelor of Science in Cybersecurity and Information Assurance
+<br>City University of Seattle | Seattle, WA
+<br>Jun 2019
+
+Associate of Applied Science in Network Systems Administration
+<br>ITT Technical Institute | Seattle, WA
+<br>Sep 2016
+
+## $ls certifications
+
+- <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
+- <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
+- Consortium for Service Innovation - KCS v6 Fundamentals
+- <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
+- Qualys - Vulnerability Management, Detection and Response
+- <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
+- <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
+
 ## $ls skills and tools
 
 - Antivirus - Microsoft Defender Antivirus
@@ -74,27 +95,6 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Video Conferencing Platforms - Microsoft Teams, Zoom
 - VPN - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
-
-## $ls education
-
-Bachelor of Science in Cybersecurity and Information Assurance
-<br>City University of Seattle
-<br>Apr 2014 - Jun 2019
-
-Associate of Applied Science in Network Systems Administration
-<br>ITT Technical Institute
-<br>Mar 2015 - Sep 2016
-
-## $ls certifications
-
-- <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
-- <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
-- Consortium for Service Innovation - KCS v6 Fundamentals
-- <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
-- Qualys - Vulnerability Management, Detection and Response
-- <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
-- <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
 ## $ls personal projects
 
