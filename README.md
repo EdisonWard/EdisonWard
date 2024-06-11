@@ -89,7 +89,7 @@ Associate of Applied Science in Network Systems Administration
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - Python, PowerShell
-- SIEM - Splunk
+- SIEM - Splunk, Wazuh
 - Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms - Microsoft Teams, Zoom
