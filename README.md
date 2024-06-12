@@ -69,7 +69,7 @@ Associate of Applied Science in Network Systems Administration
 - Digital Forensics - Autopsy, Volatility
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
 - Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
-- EDR - LimaCharlie
+- EDR/XDR - LimaCharlie, Wazuh
 - Executive Support
 - Firewalls - Windows Defender Firewall, iptables
 - IAM - AD, Azure AD
