@@ -115,7 +115,7 @@ Skills:
 - Project Management Software - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
-- Scripting - Powershell, Python
+- Scripting - PowerShell, Python
 - Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms- Microsoft Teams, Zoom
