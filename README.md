@@ -58,7 +58,7 @@ Certifications:
 - Consortium for Service Innovation - KCS v6 Fundamentals
 - <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/RH4P8BV7F2WX">Palo Alto Networks Cybersecurity Foundation</a>
-- Qualys - Vulnerability Management, Detection and Response
+- Qualys Certified Specialist
 - <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
 - <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
@@ -95,28 +95,28 @@ Projects:
       - Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
 
 Skills:
-- Customer Support
+- Customer Service
 - Digital Forensics - Autopsy, Volatility, Process Explorer
 - Email Gateway - Microsoft Exchange and Microsoft Exchange Online
 - Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
 - Endpoint Security - EDR (LimaCharlie, Wazuh), Microsoft Defender Antivirus
-- Ethical Hacking - Nmap/Zenmap, John the Ripper
 - IAM - Active Directory, Azure Active Directory
 - Incident Response - Wireshark, DeepBlueCLI
-- Log Analysis - SIEM (Splunk, Wazuh), Windows Event Logs, Sysmon
-- Network Monitoring Systems - OpenNMS, SolarWinds
-- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables), VPN (Global Protect, DirectAccess, Appgate SDP)
-- Operating Systems: Windows, Linux, MacOS, iOS, Android
 - Knowledge Management - SharePoint, Zendesk, Confluence
+- Log Analysis - SIEM (Splunk, Wazuh), Windows Event Logs, Sysmon
+- Network Monitoring - OpenNMS, SolarWinds
+- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables), VPN (Global Protect, DirectAccess, Appgate SDP)
 - Networking - Cisco, ADVA, Arris, Juniper
+- Operating Systems: Windows, Linux, MacOS, iOS, Android
+- Penetration Testing - Nmap/Zenmap, John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
-- Productivity Tools - Office 365
+- Productivity Software - Office 365
 - Project Management Software - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - Powershell, Python
 - Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
-- Video Conferencing Platforms - Microsoft Teams, Zoom
+- Video Conferencing Platforms- Microsoft Teams, Zoom
 - Vulnerability Management - Qualys
