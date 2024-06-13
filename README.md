@@ -101,11 +101,11 @@ Skills:
 - Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
 - Endpoint Security - EDR (LimaCharlie, Wazuh), Microsoft Defender Antivirus
 - Ethical Hacking - Nmap/Zenmap, John the Ripper
-- IAM - AD, Azure AD
+- IAM - Active Directory, Azure Active Directory
 - Incident Response - Wireshark, DeepBlueCLI
 - Log Analysis - SIEM (Splunk, Wazuh), Windows Event Logs, Sysmon
 - Network Monitoring Systems - OpenNMS, SolarWinds
-- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables)
+- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables), VPN (Global Protect, DirectAccess, Appgate SDP)
 - Operating Systems: Windows, Linux, MacOS, iOS, Android
 - Knowledge Management - SharePoint, Zendesk, Confluence
 - Networking - Cisco, ADVA, Arris, Juniper
@@ -119,5 +119,4 @@ Skills:
 - Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms - Microsoft Teams, Zoom
-- VPN - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
