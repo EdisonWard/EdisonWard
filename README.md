@@ -53,7 +53,6 @@ Education:
 <br>Sep 2016
 
 Certifications:
-
 - <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
 - Consortium for Service Innovation - KCS v6 Fundamentals
@@ -87,7 +86,7 @@ Projects:
 
 - Learning Platforms:
   - <a href="https://app.cybrary.it/profile/EdisonWard">Cybrary</a>
-  - Blue Team Labs Online:
+  - <a href="https://blueteamlabs.online/public/user/4e09fa1f9ff9d63f0abcde">Blue Team Labs Online:
     - <a href="https://blueteamlabs.online/achievement/share/75272/203">Reverse Engineering</a>
       - Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
       - Employed SigCheck to verify if a file has been signed with a code-signing certificate proving its validity.
