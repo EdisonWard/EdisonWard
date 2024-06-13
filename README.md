@@ -65,7 +65,7 @@ Certifications:
 ## $cat projects & skills
 Projects:
 - Personal Projects:
-  - C2 Framework Emulating Threat Actor Behavior and Detection/Response using EDR (file attachment coming soon)
+  - C2 Framework Emulating Threat Actor Behavior, and Detection and Response Through EDR (file attachment coming soon)
     - Set up a Ubuntu server to serve as an attack box.
     - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
     - Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
