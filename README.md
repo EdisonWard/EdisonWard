@@ -3,11 +3,10 @@
 ## $nslookup
 <a href="https://www.linkedin.com/in/edisonward/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##$whoami
+## $whoami
 I'm Edison Ward. Aspiring Cybersecurity Analyst with a track record of over six years in diagnosing and rectifying diverse computer and network-related challenges. A distinguished Navy veteran, offering a decade-long history of fostering teamwork, accountability, and strong work ethics. Results-orientated with a commitment to continual learning and interpersonal adeptness. Highly driven and meticulously poised to contribute to organizational objectives.
 
 ## $history
-
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
 
@@ -43,17 +42,17 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 - Provided comprehensive training and qualification to numerous personnel in military-related disciplines, contributing to the readiness and proficiency of the workforce.
 - Directed and supervised daily operations within the work center, ensuring the timely completion of priorities set forth by management and maintaining operational continuity.
 
-## $ls education
-
-Bachelor of Science in Cybersecurity and Information Assurance
+## $ls education and certifications
+Education:
+- Bachelor of Science in Cybersecurity and Information Assurance
 <br>City University of Seattle | Seattle, WA
 <br>Jun 2019
 
-Associate of Applied Science in Network Systems Administration
+- Associate of Applied Science in Network Systems Administration
 <br>ITT Technical Institute | Seattle, WA
 <br>Sep 2016
 
-## $ls certifications
+Certifications:
 
 - <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
