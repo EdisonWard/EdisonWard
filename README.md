@@ -95,32 +95,27 @@ Projects:
       - Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
 
 Skills:
-- Antivirus - Microsoft Defender Antivirus
-- Digital Forensics - Autopsy, Volatility
-- Email Platforms - Exchange Admin Center, Exchange Online Powershell
+- Customer Support
+- Digital Forensics - Autopsy, Volatility, Process Explorer
+- Email Gateway - Microsoft Exchange and Microsoft Exchange Online
 - Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
-- EDR/XDR - LimaCharlie, Wazuh
-- Endpoint Security - Windows Event Logs, Sysmon, Process Explorer
-- Executive Support
-- Firewalls - Windows Defender Firewall, iptables
+- Endpoint Security - EDR (LimaCharlie, Wazuh), Microsoft Defender Antivirus
+- Ethical Hacking - Nmap/Zenmap, John the Ripper
 - IAM - AD, Azure AD
-- IDS/IPS - Snort
 - Incident Response - Wireshark, DeepBlueCLI
-- Log Analysis
+- Log Analysis - SIEM (Splunk, Wazuh), Windows Event Logs, Sysmon
 - Network Monitoring Systems - OpenNMS, SolarWinds
-- Network Scanner - Nmap/Zenmap
-- Operating Systems: Windows, MacOS, Linux, iOS, Android
+- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables)
+- Operating Systems: Windows, Linux, MacOS, iOS, Android
 - Knowledge Management - SharePoint, Zendesk, Confluence
 - Networking - Cisco, ADVA, Arris, Juniper
-- Password Attacks - John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
 - Productivity Tools - Office 365
 - Project Management Software - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
-- Scripting - Python, PowerShell
-- SIEM - Splunk, Wazuh
+- Scripting - Powershell, Python
 - Ticketing Systems - theHive, ServiceNow, Zendesk
 - Threat Intelligence - MISP
 - Video Conferencing Platforms - Microsoft Teams, Zoom
