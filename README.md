@@ -44,7 +44,6 @@ Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 
 ## $ls education and certifications
 Education:
-
 - Bachelor of Science in Cybersecurity and Information Assurance
 <br>City University of Seattle | Seattle, WA
 <br>Jun 2019
@@ -66,28 +65,37 @@ Certifications:
 
 ## $cat projects & skills
 Projects:
-
 - Personal Projects:
-<a>C2 Framework Emulating Threat Actor Behavior and Detection/Response using EDR</a>
-- Set up a Ubuntu server to serve as an attack box.
-- Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
-- Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
-- SSH'ed into the attack box and installed Sliver, a C2 framework, to emulate threat actor behavior.
-- Generated a C2 payload, spun up a temporary web server, and downloaded the C2 payload from the attack box to the host machine via the web server.
-- Started the HTTP listener of Sliver on the attack box, executed the C2 payload from the host machine, interacted with the new C2 session on the attack box, and observed the telemetry in LimaCharlie.
-- Ran "procdump -n lsass.exe -s lsass.dmp" from the attack box. This action is used to steal credentials.
-- Detected the attack in LimaCharlie and built a rule to report the intrusion.
-- Ran "procdump -n lsass.exe -s lsass.dmp" again from the attack box, and LimaCharlie detected and reported it.
-- Ran "shell" from the attack box and ran "vssadmin delete shadows /all" to delete Volume Shadow Copies. This action is typically used for ransomware as it deletes backup copies or snapshots of computer files and volumes. LimaCharlie's default Sigma rules detected this attack. Created a detection and response rule to report such events and respond by killing the parent process responsible with the deny_tree for the "vssadmin delete shadows /all" command.
-- Ran "vssadmin delete shadows /all" again from the attack box and the prompt "Shell Existed" popped up. This shows that the rule created work as LimaCharlie successfully killed the parent process of shell.
-- Added YARA rules in LimaCharlie to detect Sliver implants in Windows and Linux. Also, added generic detection and response rules to generate alerts whenever a YARA detection occurs.
-- Since the C2 payload is still in the host machine, a YARA scan was performed on the host machine to ensure that the YARA rules worked using LimaCharlie. It worked as the C2 payload was detected.
-- Created a rule in LimaCharlie to detect any new .exe files appearing in any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the file path.
-- Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
-- Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
-- Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
+  - C2 Framework Emulating Threat Actor Behavior and Detection/Response using EDR (file attachment coming soon)
+    - Set up a Ubuntu server to serve as an attack box.
+    - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
+    - Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
+    - SSH'ed into the attack box and installed Sliver, a C2 framework, to emulate threat actor behavior.
+    - Generated a C2 payload, spun up a temporary web server, and downloaded the C2 payload from the attack box to the host machine via the web server.
+    - Started the HTTP listener of Sliver on the attack box, executed the C2 payload from the host machine, interacted with the new C2 session on the attack box, and observed the telemetry in LimaCharlie.
+    - Ran "procdump -n lsass.exe -s lsass.dmp" from the attack box. This action is used to steal credentials.
+    - Detected the attack in LimaCharlie and built a rule to report the intrusion.
+    - Ran "procdump -n lsass.exe -s lsass.dmp" again from the attack box, and LimaCharlie detected and reported it.
+    - Ran "shell" from the attack box and ran "vssadmin delete shadows /all" to delete Volume Shadow Copies. This action is typically used for ransomware as it deletes backup copies or snapshots of computer files and volumes. LimaCharlie's default Sigma rules detected this attack. Created a detection and response rule to report such events and respond by killing the parent process responsible with the deny_tree for the "vssadmin delete shadows /all" command.
+    - Ran "vssadmin delete shadows /all" again from the attack box and the prompt "Shell Existed" popped up. This shows that the rule created work as LimaCharlie successfully killed the parent process of shell.
+    - Added YARA rules in LimaCharlie to detect Sliver implants in Windows and Linux. Also, added generic detection and response rules to generate alerts whenever a YARA detection occurs.
+    - Since the C2 payload is still in the host machine, a YARA scan was performed on the host machine to ensure that the YARA rules worked using LimaCharlie. It worked as the C2 payload was detected.
+    - Created a rule in LimaCharlie to detect any new .exe files appearing in any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the file path.
+    - Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
+    - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
+    - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
 
+- Learning Platforms:
+  - <a href="https://app.cybrary.it/profile/EdisonWard">Cybrary</a>
+  - Blue Team Labs Online:
+    - <a href="https://blueteamlabs.online/achievement/share/75272/203">Reverse Engineering</a>
+      - Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
+      - Employed SigCheck to verify if a file has been signed with a code-signing certificate proving its validity.
+      - Enabled Windows Defender and verified malware by scanning a suspected file.
+      - Utilized Timeline Explorer to organize and search through threat logs.
+      - Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
 
+Skills:
 - Antivirus - Microsoft Defender Antivirus
 - Digital Forensics - Autopsy, Volatility
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
@@ -119,34 +127,3 @@ Projects:
 - Video Conferencing Platforms - Microsoft Teams, Zoom
 - VPN - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
-
-## $ls personal projects
-
-<a>Sliver C2 Framework Emulating Threat Actor Behavior and Detection/Response using LimaCharlie EDR</a>
-
-- Set up a Ubuntu server to serve as an attack box.
-- Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
-- Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
-- SSH'ed into the attack box and installed Sliver, a C2 framework, to emulate threat actor behavior.
-- Generated a C2 payload, spun up a temporary web server, and downloaded the C2 payload from the attack box to the host machine via the web server.
-- Started the HTTP listener of Sliver on the attack box, executed the C2 payload from the host machine, interacted with the new C2 session on the attack box, and observed the telemetry in LimaCharlie.
-- Ran "procdump -n lsass.exe -s lsass.dmp" from the attack box. This action is used to steal credentials.
-- Detected the attack in LimaCharlie and built a rule to report the intrusion.
-- Ran "procdump -n lsass.exe -s lsass.dmp" again from the attack box, and LimaCharlie detected and reported it.
-- Ran "shell" from the attack box and ran "vssadmin delete shadows /all" to delete Volume Shadow Copies. This action is typically used for ransomware as it deletes backup copies or snapshots of computer files and volumes. LimaCharlie's default Sigma rules detected this attack. Created a detection and response rule to report such events and respond by killing the parent process responsible with the deny_tree for the "vssadmin delete shadows /all" command.
-- Ran "vssadmin delete shadows /all" again from the attack box and the prompt "Shell Existed" popped up. This shows that the rule created work as LimaCharlie successfully killed the parent process of shell.
-- Added YARA rules in LimaCharlie to detect Sliver implants in Windows and Linux. Also, added generic detection and response rules to generate alerts whenever a YARA detection occurs.
-- Since the C2 payload is still in the host machine, a YARA scan was performed on the host machine to ensure that the YARA rules worked using LimaCharlie. It worked as the C2 payload was detected.
-- Created a rule in LimaCharlie to detect any new .exe files appearing in any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the file path.
-- Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
-- Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
-- Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
-
-</a>Blue Team Labs Online Investigations and Challenges</a>
-<br><a href="https://blueteamlabs.online/achievement/share/75272/203">Anakus - Reverse Engineering</a>
-
-- Used Detect it Easy to gather information about a file such as its hash, the language it was written in, the section of the file that is highly entropic-packed (compressed) usually considered malicious, and its C2 domain.
-- Employed SigCheck to verify if a file has been signed with a code-signing certificate proving its validity.
-- Enabled Windows Defender and verified malware by scanning a suspected file.
-- Utilized Timeline Explorer to organize and search through threat logs.
-- Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
