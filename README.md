@@ -70,6 +70,7 @@ Associate of Applied Science in Network Systems Administration
 - Email Platforms - Exchange Admin Center, Exchange Online Powershell
 - Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
 - EDR/XDR - LimaCharlie, Wazuh
+- Endpoint Security - Windows Event Logs, Sysmon, Process Explorer
 - Executive Support
 - Firewalls - Windows Defender Firewall, iptables
 - IAM - AD, Azure AD
