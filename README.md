@@ -54,6 +54,7 @@ Education:
 
 Certifications:
 - <a href="https://www.credly.com/badges/f61f9bc7-b044-4be5-ab73-b5c304597854/public_url">CompTIA A+</a>
+- Cybrary SOC Analyst
 - <a href="https://www.credly.com/badges/cff68502-f364-493f-b028-9cc492076d05/public_url">CompTIA Security+</a>
 - Consortium for Service Innovation - KCS v6 Fundamentals
 - <a href="https://www.coursera.org/account/accomplishments/verify/53XN438CZMC5">Google - Technical Support Fundamentals</a>
