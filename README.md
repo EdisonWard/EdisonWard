@@ -28,7 +28,7 @@ Amazon Live Stream Event Associate
 -	Bolstered operational enhancements by driving process improvements and implementing automation initiatives to streamline workflows and optimize efficiency.
 -	Collaborated closely with senior engineers and cross-functional teams to effectively transition active support issues, prioritizing root-cause analysis and fostering the creation of a comprehensive team-specific knowledge base and skill set.
 
-Network Operations Center Analyst
+Network Operations Center Technician
 <br> Wave Broadband, Oct 2015 - Jun 2017
 
 -	Monitored and triaged the Wave network and its subsidiaries across multiple states, utilizing network monitoring solutions such as OpenNMS and SolarWinds to uphold service level agreements and operational efficiency.
