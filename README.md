@@ -10,15 +10,15 @@ I'm Edison Ward. Aspiring Cybersecurity Analyst with a track record of over six 
 Executive IT Support Specialist
 <br> Bill & Melinda Gates Foundation, Nov 2021 - Mar 2024
 
--	Delivered 24/7 high-touch technical support tailored for executives, directors, and VIPs.
--	Ensured adherence to security policies by leveraging endpoint management solutions, Microsoft Intune and Workspace ONE, effectively bringing numerous devices into compliance and safeguarding access to system resources.
--	Managed the domain accounts of over 1,500 users, utilizing IAM solutions, Active Directory and Azure AD, assuring the right users have the appropriate access to technology resources.
+-	Delivered 24/7 high-touch technical support tailored for executives, directors and VIPs.
+-	Managed the domain accounts of over 1,500 users, utilizing IAM solutions, Active Directory and Azure AD, assuring appropriate access to domain resources.
+-	Ensured adherence to security policies by leveraging endpoint management solutions, Microsoft Intune and Workspace ONE, bringing numerous devices into compliance and insuring access to system resources.
 
 Technical Support Specialist
 <br> Intellectual Ventures, Feb 2019 - Mar 2021
 
 -	Addressed a broad spectrum of technical challenges spanning multiple platforms and applications, catering to clientele across diverse time zones.
--	Leveraged phishing analysis tools like URL2PNG, VirusTotal, and Whois, to proactively thwart phishing attacks, thereby mitigating risks associated with credential theft and malware infiltration.
+-	Leveraged phishing analysis tools like URL2PNG, VirusTotal and Whois, to proactively thwart phishing attacks, mitigating risks associated with credential theft and malware infiltration.
 -	Enhanced system security and performance by meticulously executing monthly server patches through SCCM and OS updates.
 
 Amazon Live Stream Event Associate
@@ -31,9 +31,9 @@ Amazon Live Stream Event Associate
 Network Operations Center Technician
 <br> Wave Broadband, Oct 2015 - Jun 2017
 
--	Monitored and triaged the Wave network and its subsidiaries across multiple states, utilizing network monitoring solutions such as OpenNMS and SolarWinds to uphold service level agreements and operational efficiency.
--	Troubleshot network issues through CLI and GUI across various router and switch models, including Cisco, Juniper, Arris, and ADVA, minimizing downtime and network congestion.
--	Provided tiered escalation support for Technical Support Representatives and extended installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
+-	Monitored and triaged the Wave network and its subsidiaries by utilizing network monitoring solutions such as OpenNMS and SolarWinds to uphold SLAs and operational efficiency.
+-	Troubleshot network issues through CLI and GUI across various router and switch models, including Cisco, Juniper, Arris and ADVA, minimizing downtime and network congestion.
+-	Provided tiered escalation support for Technical Support Representatives, and installation and troubleshooting assistance for Field Technicians, ensuring prompt resolution of technical issues and uninterrupted service delivery.
 
 Aviation Electronics Technician (Former TS/SCI and Secret Clearance)
 <br> US Navy, Jul 2004 - Sep 2013
@@ -66,7 +66,7 @@ Certifications:
 ## $cat projects & skills
 Projects:
 - Personal Projects:
-  - C2 Framework Emulating Threat Actor Behavior, and Detection and Response Through EDR (file attachment coming soon)
+  - Emulated threat actor behavior through Sliver C2 framework, and detected and responded to thrown attacks using Sysmon and LimaCharlie EDR telemetries.
     - Set up a Ubuntu server to serve as an attack box.
     - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
     - Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
