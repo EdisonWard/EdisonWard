@@ -66,7 +66,7 @@ Certifications:
 ## $cat projects & skills
 Projects:
 - Personal Projects:
-  - Emulated threat actor behavior through Sliver C2 framework, and detected and responded to thrown attacks using Sysmon and LimaCharlie EDR telemetries.
+  - Emulated credential dumping and deletion of volume shadow copies through Sliver C2 framework, and detected and responded to thrown attacks using Sysmon and LimaCharlie EDR telemetries.
     - Set up a Ubuntu server to serve as an attack box.
     - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
     - Installed LimaCharlie (EDR) into the host machine and configured LimaCharlie to ship the Sysmon event logs alongside its own EDR telemetry.
