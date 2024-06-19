@@ -66,6 +66,7 @@ Certifications:
 ## $cat projects & skills
 Projects:
 - Personal Projects:
+  
   - Emulated credential dumping and deletion of volume shadow copies through Sliver C2 framework, and detected and responded to thrown attacks using Sysmon and LimaCharlie EDR telemetries.
     - Set up a Ubuntu server to serve as an attack box.
     - Built a Windows 11 host machine, installed and configured Sysmon, and disabled Windows Defender through Windows Security, Group Policy Editor, and Registry Editor.
@@ -84,6 +85,11 @@ Projects:
     - Created a rule in LimaCharlie to detect any process launched from any user's Downloads directory of the host machine, report it, and kick off a YARA scan of the process ID.
     - Moved the C2 payload from the Downloads to the Documents directory on the host machine. Placed the C2 payload back in the Downloads directory. LimaCharlie detected the C2 payload being dropped in the Downloads directory and kicked off a YARA scan that found the C2 payload inside.
     - Executed the C2 payload from the host machine. LimaCharlie detected the execution and kicked off a YARA scan that found the C2 payload in the Downloads directory.
+   
+  - Elastic Stack SIEM Lab.
+    - Elastic Stack SIEM Configuration and Management: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated profieciency in deploying a Kali Linux VM, configuring Elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
+    - Security Event Simulation and Analysis: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to idenfity and investigate security incidents, enhancing skills in network security monitoring and threat detection.
+    - Visualization and Alerting in SIEM: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
 
 - Learning Platforms:
   - <a href="https://app.cybrary.it/profile/EdisonWard">Cybrary</a>
@@ -104,7 +110,7 @@ Skills:
 - IAM - Active Directory, Azure Active Directory
 - Incident Response - Wireshark, DeepBlueCLI
 - Knowledge Management - SharePoint, Zendesk, Confluence
-- Log Analysis - SIEM (Splunk, Wazuh), Windows Event Logs, Sysmon
+- Log Analysis - SIEM (Splunk, Wazuh, Elastic), Windows Event Logs, Sysmon
 - Network Monitoring - OpenNMS, SolarWinds
 - Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables), VPN (Global Protect, DirectAccess, Appgate SDP)
 - Networking - Cisco, ADVA, Arris, Juniper
