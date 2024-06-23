@@ -63,7 +63,7 @@ Certifications:
 - <a href="https://www.credly.com/badges/f85d4be6-6aff-4abc-abf5-294f9105fa9a/public_url">Security Blue Team - Blue Team Level 1</a>
 - <a href="https://www.credly.com/badges/30787a57-9ccc-4255-a608-e6f2fd96cd71/public_url">Splunk Core Certified User</a>
 
-## $cat projects & skills
+## $cat home lab projects & skills
 Projects:
 - Personal Projects:
   
