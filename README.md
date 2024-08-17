@@ -102,28 +102,32 @@ Projects:
       - Applied the MITRE ATT&CK framework to analyze the techniques and tactics used. 
 
 Skills:
+- Antivirus - Microsoft Defender Antivirus
 - Customer Service
 - Digital Forensics - Autopsy, Volatility, Process Explorer
-- Email Gateway - Microsoft Exchange and Microsoft Exchange Online
-- Endpoint Management - Microsoft Intune, SCCM, Workspace ONE
-- Endpoint Security - EDR (LimaCharlie, Wazuh), Microsoft Defender Antivirus
-- IAM - Active Directory, Azure Active Directory
+- Email Gateway - Exchange Online, Exchange on-premises
+- Endpoint Detection and Response (EDR) - LimaCharlie, Wazuh
+- Firewall - Windows Defender Firewall, iptables 
+- Identity and Access Management (IAM) - Azure Active Directory, Active Directory
 - Incident Response - Wireshark, DeepBlueCLI
+- Intrusion Detection System/Intrusion Prevention System (IDS/IPS) - Snort 
 - Knowledge Management - SharePoint, Zendesk, Confluence
-- Log Analysis - SIEM (Splunk, Wazuh, Elastic), Windows Event Logs, Sysmon
+- Log Analysis - Windows Event Logs, Sysmon
+- Mobile Device Management (MDM) - Microsoft Intune, SCCM, Workspace ONE
 - Network Monitoring - OpenNMS, SolarWinds
-- Network Security - IDS/IPS (Snort), Firewall (Windows Defender Firewall, iptables), VPN (Global Protect, DirectAccess, Appgate SDP)
 - Networking - Cisco, ADVA, Arris, Juniper
-- Operating Systems: Windows, Linux, MacOS, iOS, Android
+- Operating System: Windows, Linux, MacOS, iOS, Android
 - Penetration Testing - Nmap/Zenmap, John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
 - Productivity Software - Office 365
-- Project Management Software - Jira
+- Project Management - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - PowerShell, Python
-- Ticketing Systems - theHive, ServiceNow, Zendesk
-- Threat Intelligence - MISP
-- Video Conferencing Platforms- Microsoft Teams, Zoom
+- Security Information and Event Management (SIEM) - Splunk, Wazuh, Elastic
+- Ticketing System - theHive, ServiceNow, Zendesk
+- Threat Intelligence - Malware Information Sharing Platform (MISP)
+- Video Conferencing - Microsoft Teams, Zoom
+- Virtual Private Network (VPN) - Global Protect, DirectAccess, Appgate SDP
 - Vulnerability Management - Qualys
