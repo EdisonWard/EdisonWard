@@ -126,7 +126,7 @@ Skills:
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
 - Scripting - PowerShell, Python
 - Security Information and Event Management (SIEM) - Splunk, Wazuh, Elastic
-- Ticketing System - theHive, ServiceNow, Zendesk
+- Ticketing System - ServiceNow, Zendesk, theHive
 - Threat Intelligence - Malware Information Sharing Platform (MISP)
 - Video Conferencing - Microsoft Teams, Zoom
 - Virtual Private Network (VPN) - Global Protect, DirectAccess, Appgate SDP
