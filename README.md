@@ -118,7 +118,7 @@ Skills:
 - Networking - Cisco, ADVA, Arris, Juniper
 - Operating System: Windows, Linux, MacOS, iOS, Android
 - Penetration Testing - Nmap/Zenmap, John the Ripper
-- Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser
+- Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser, ANY.RUN
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
 - Productivity Software - Office 365
 - Project Management - Jira
