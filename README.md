@@ -120,7 +120,7 @@ Skills:
 - Penetration Testing - Nmap/Zenmap, John the Ripper
 - Phishing Analysis - URL2PNG, VirusTotal, Whois, Wannabrowser, ANY.RUN
 - Printing - Xerox Workplace Cloud, Xerox Follow-You Printing
-- Productivity Software - Office 365
+- Productivity Software - Microsoft Forms, Microsoft Power Automate, Office 365
 - Project Management - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
