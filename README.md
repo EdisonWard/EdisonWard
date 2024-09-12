@@ -111,7 +111,7 @@ Skills:
 - Identity and Access Management (IAM) - Azure Active Directory, Active Directory
 - Incident Response - Wireshark, DeepBlueCLI
 - Intrusion Detection System/Intrusion Prevention System (IDS/IPS) - Snort 
-- Knowledge Management - SharePoint, Zendesk, Confluence
+- Knowledge Base - SharePoint, Zendesk, Confluence
 - Log Analysis - Windows Event Logs, Sysmon
 - Mobile Device Management (MDM) - Microsoft Intune, SCCM, Workspace ONE
 - Network Monitoring - OpenNMS, SolarWinds
@@ -124,7 +124,7 @@ Skills:
 - Project Management - Jira
 - Remote Support - Tanium, BeyondTrust, LogMeIn Rescue
 - Reverse Engineering - Detect it Easy, SigCheck, Timeline Explorer
-- Scripting - PowerShell, Python
+- Scripting - PowerShell, Python, Bash
 - Security Information and Event Management (SIEM) - Splunk, Wazuh, Elastic
 - Ticketing System - ServiceNow, Zendesk, theHive
 - Threat Intelligence - Malware Information Sharing Platform (MISP)
